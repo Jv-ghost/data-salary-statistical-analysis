@@ -398,7 +398,7 @@ Análise de Dados | Ciência de Dados | Python | SQL
 Projeto desenvolvido como parte do meu portfólio profissional, com foco em análise exploratória, estatística descritiva, visualização de dados e interpretação de resultados.
 
 - **GitHub:** [Jv-ghost](https://github.com/Jv-ghost)
-- **LinkedIn:** [João Vitor Duarte de Oliveira](htpps://www.linkedin.com/in/joão-vitor-duarte-de-olliveira)
+- **LinkedIn:** [htpps://www.linkedin.com/in/joão-vitor-duarte-de-olliveira]
 
 ---
 
